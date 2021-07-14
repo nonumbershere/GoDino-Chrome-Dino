@@ -10,7 +10,7 @@ Includes:
 
 Coming up:
 - ESP
-- Sandbox Horizion Editor
+- Sandbox Horizion Editor (No Obstacles Add Cloud)
 
 # Installation
 1) Go to [Chrome Dino](chrome://dino)
