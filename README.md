@@ -1,5 +1,16 @@
-# GoDino-Chrome-Dino
+# Home
 Custom mod menu for Chrome Dino.
+
+# GoDino
+Includes:
+- Increase Speed
+- Decrease Speed
+- Bhop
+- Auto Player
+
+Coming up:
+- ESP
+- Sandbox Horizion Editor
 
 # Installation
 1) Go to [Chrome Dino](chrome://dino)
