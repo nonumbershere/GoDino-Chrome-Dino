@@ -16,6 +16,17 @@ Coming up:
 - Score Editor
 - Speed Editor
 - Character Editor
+- Canvas Editor
+- Rainbow Sky
+- Sky Editors
+- Jump Height
+- Gravity
+- Pause/Unpause Dino
+- Sandbox Mode
+- Loop Kill
+- Cloud Maker
+- Increase Score
+- Decrease Score
 
 # Installation
 1) Go to [Chrome Dino](chrome://dino)
